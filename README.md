@@ -1,3 +1,3 @@
-To test the project, uses </br>
+To test the project, uses 
 `npm test`
 
